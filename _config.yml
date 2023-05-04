@@ -5,3 +5,4 @@ plugins:
 title: hello
 description: hello fwiend
 
+show_downloads: false
