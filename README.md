@@ -5,4 +5,4 @@ A# hello fwiendly braaah
 ### ima
 [hello!](inpex.md)
 
-<img src="![40e43994b650826ab0b3a16ce1d44c125f7d48a3-1](https://user-images.githubusercontent.com/131646695/236422243-76337324-3fb9-4c26-9a5b-66c0f5ffd0bc.jpeg)" width="200 px" hieght="100 px"
+<img src="![40e43994b650826ab0b3a16ce1d44c125f7d48a3-1](https://user-images.githubusercontent.com/131646695/236422243-76337324-3fb9-4c26-9a5b-66c0f5ffd0bc.jpeg)" width="200px" hieght="100px"
