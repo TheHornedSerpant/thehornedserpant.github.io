@@ -6,6 +6,6 @@
 [hello!](inpex.md)
 
 
-<img src="https://user-images.githubusercontent.com/132719464/236586035-e6a659ed-e78f-4f2f-9c87-61e685a76210.jpeg" width="900000" />
+<img src="https://user-images.githubusercontent.com/132719464/236586035-e6a659ed-e78f-4f2f-9c87-61e685a76210.jpeg" width="289" />
 
 
